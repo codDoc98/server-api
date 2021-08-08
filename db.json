@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "d27d16ae-3abb-4b63-8697-4ac7c4c01720",
+      "name": "olay",
+      "email": "olay@email.com"
+    },
+    {
+      "id": "b36a36a3-8b3f-45c7-8661-d72af891a01e",
+      "name": "engi_algo",
+      "email": "support@dmart.com"
+    },
+    {
+      "id": "7ca46ed4-402b-474c-a1e0-56ab0e503c4e",
+      "name": "hakka",
+      "email": "noodles@gmail.com"
+    },
+    {
+      "id": "e470077b-f681-4d5d-bee9-c6145357e2e9",
+      "name": "checka",
+      "email": "correct@gmail.com"
+    }
+  ]
+}
